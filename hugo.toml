@@ -1,0 +1,4 @@
+baseURL = "https://shdicjwdpfd.github.io/my-math-blog/" # 여기에 GitHub 페이지 URL 입력
+languageCode = "en-us"
+title = "My Math Blog"
+theme = "PaperMod"
